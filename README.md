@@ -1,5 +1,7 @@
 # language_on_a_holiday
-unsupervised learning, applying NLP techniques to philosophical texts
+Unsupervised machine learning, applying NLP techniques to philosophical texts. This project investigates the possibilities of unspupervised machine learning models for Natural Language Processing, to discover algorithmic approaches to distinguishes philosophical writing style and locating passages of text having certain qualities which might be appropriate for recommendor systems.
+
+
 
 
 Only powerpoint and pdf are prepared.  These files are called:
