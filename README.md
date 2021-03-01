@@ -44,7 +44,7 @@ The presentation can be viewed in
 ### Visualizations
 
 * _Wordcloud_
- - for each book
+  - for each book
 * Confusion matrix
   - to observe topic distribution in entire books
 * Line graphs
