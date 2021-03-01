@@ -80,4 +80,4 @@ The presentation can be viewed in
   c. The fluctuation of verbal idiosyncrasy from one word to the next within Whitehead's sentences.  
     - The verbal idiosyncrasy score (_alpha scaled TF-IDF_) of individual words within a sentence could serve as a useful parameter to inform inflection in text-to-speach or algorithmic song composition applications.
 
-  #### Code files are not quite ready.  A couple more hours are needed to clean these.
+  ## NOTE: code files 2b and 3 still require a significant amount of cleaning up and markdown annotation
