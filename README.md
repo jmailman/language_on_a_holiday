@@ -1,19 +1,14 @@
-# language_on_a_holiday
+# _Language on a Holiday_
+##### New ways to 'read' philosophical texts
 
 
 ### Description
 
-Unsupervised machine learning, applying NLP techniques to philosophical texts. This project investigates the possibilities of unspupervised machine learning models for Natural Language Processing, to discover algorithmic approaches to distinguish philosophical writing style and locating passages of text having certain qualities that might be appropriate for recommendor systems.
+Unsupervised machine learning, applying NLP techniques to philosophical texts. This project investigates the possibilities of unspupervised machine learning models for Natural Language Processing, to discover algorithmic approaches to distinguish philosophical writing style and locating passages of text having certain qualities that might be appropriate for recommender systems or educational trajectories, or whose audible rendering may be altered on a contextual basis.
 
-The presentation can be viewed in
+The presentation can be viewed in:
 
-`langauge_on_a_holiday.pptx`
-
-<https://github.com/jmailman/language_on_a_holiday/blob/master/langauge_on_a_holiday.pptx>
-
-`langauge_on_a_holiday.pdf`
-
-<https://github.com/jmailman/language_on_a_holiday/blob/master/langauge_on_a_holiday.pdf>
+[Langauge_on_a_holiday.pptx](https://github.com/jmailman/language_on_a_holiday/blob/master/langauge_on_a_holiday.pptx) and [Langauge_on_a_holiday.pdf](https://github.com/jmailman/language_on_a_holiday/blob/master/langauge_on_a_holiday.pdf)
 
 
 ### Features
@@ -39,7 +34,7 @@ The presentation can be viewed in
 * **NMF (Non-negative Matrix Factorization)** for topic modeling
   - trained on entire corpus and fit to each book
   - trained on sections of books and fit to each paragraph within the section
-* **_Alpha scaled TF-IDF_**, a modified version of TF-IDF which restores some of the emphasis on extremely rare words that the log transformation of IDF in the conventional TF-IDF dampens.
+* **_Alpha scaled TF-IDF_**, a modified version of TF-IDF which restores some of the emphasis on extremely rare words that the log transformation of IDF in the conventional TF-IDF dampens when only a limited (sample) corpus is used for context.
 
 ### Visualizations
 
@@ -79,5 +74,3 @@ The presentation can be viewed in
 
   c. The fluctuation of verbal idiosyncrasy from one word to the next within Whitehead's sentences.  
     - The verbal idiosyncrasy score (_alpha scaled TF-IDF_) of individual words within a sentence could serve as a useful parameter to inform inflection in text-to-speach or algorithmic song composition applications.
-
-  ## NOTE: code files 2b and 3 still require a significant amount of cleaning up and markdown annotation
