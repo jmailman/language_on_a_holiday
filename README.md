@@ -4,7 +4,7 @@
 
 ### Description
 
-Unsupervised machine learning, applying NLP techniques to philosophical texts. This project investigates the possibilities of unspupervised machine learning models for Natural Language Processing, to discover algorithmic approaches to distinguish philosophical writing style and locating passages of text having certain qualities that might be appropriate for recommender systems or educational trajectories, or whose audible rendering may be altered on a contextual basis.
+Unsupervised machine learning, applying NLP techniques to philosophical texts. This project investigates the possibilities of unsupervised machine learning models for Natural Language Processing, to discover algorithmic approaches to distinguish philosophical writing style and locating passages of text having certain qualities that might be appropriate for recommender systems or educational trajectories, or whose audible rendering may be altered on a contextual basis.
 
 The presentation can be viewed in:
 
